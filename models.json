@@ -1,74 +1,74 @@
 [
   {
     "name": "Hairdressing Salon",
-    "file": "models/01_Hairdressing_Salon_LOD1.glb"
+    "file": "01_Hairdressing_Salon_LOD1.glb"
   },
   {
     "name": "West African Restaurant",
-    "file": "models/03_West_African_Restaurant_LOD1.glb"
+    "file": "03_West_African_Restaurant_LOD1.glb"
   },
   {
     "name": "Chinese Restaurant",
-    "file": "models/04_Chinese_Restaurant_LOD1.glb"
+    "file": "04_Chinese_Restaurant_LOD1.glb"
   },
   {
     "name": "Swedish Restaurant",
-    "file": "models/05_Swedish_Restaurant_LOD1.glb"
+    "file": "05_Swedish_Restaurant_LOD1.glb"
   },
   {
     "name": "Thai Restaurant",
-    "file": "models/06_Thai_Restaurant_LOD1.glb"
+    "file": "06_Thai_Restaurant_LOD1.glb"
   },
   {
     "name": "Bank Branch",
-    "file": "models/07_Bank_Branch_LOD1.glb"
+    "file": "07_Bank_Branch_LOD1.glb"
   },
   {
     "name": "Job Recruitment Agency",
-    "file": "models/09_Job_Recruitment_Agency_LOD1.glb"
+    "file": "09_Job_Recruitment_Agency_LOD1.glb"
   },
   {
     "name": "Car Dealership",
-    "file": "models/14_Car_Dealership_LOD1.glb"
+    "file": "14_Car_Dealership_LOD1.glb"
   },
   {
     "name": "Shopping Mall",
-    "file": "models/15_Shopping_Mall_LOD1.glb"
+    "file": "15_Shopping_Mall_LOD1.glb"
   },
   {
     "name": "Rental Flats",
-    "file": "models/16_Rental_Flats_LOD1.glb"
+    "file": "16_Rental_Flats_LOD1.glb"
   },
   {
     "name": "Private Home",
-    "file": "models/17_Private_Home_LOD1.glb"
+    "file": "17_Private_Home_LOD1.glb"
   },
   {
     "name": "Airport",
-    "file": "models/18_Airport_LOD1.glb"
+    "file": "18_Airport_LOD1.glb"
   },
   {
     "name": "City Bus",
-    "file": "models/20_City_Bus_LOD1.glb"
+    "file": "20_City_Bus_LOD1.glb"
   },
   {
     "name": "Commuter Train",
-    "file": "models/21_Commuter_Train_LOD1.glb"
+    "file": "21_Commuter_Train_LOD1.glb"
   },
   {
     "name": "Passenger Airplane",
-    "file": "models/22_Passenger_Airplane_LOD1.glb"
+    "file": "22_Passenger_Airplane_LOD1.glb"
   },
   {
     "name": "Corner Cafe",
-    "file": "models/25_Corner_Cafe_LOD1.glb"
+    "file": "25_Corner_Cafe_LOD1.glb"
   },
   {
     "name": "Police Station",
-    "file": "models/29_Police_Station_LOD1.glb"
+    "file": "29_Police_Station_LOD1.glb"
   },
   {
     "name": "Health Clinic",
-    "file": "models/36_Health_Clinic_LOD1.glb"
+    "file": "36_Health_Clinic_LOD1.glb"
   }
 ]
